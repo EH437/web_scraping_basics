@@ -1,4 +1,3 @@
-# Python을 활용한 web scraping 기초
+본 자료를 강의 일정 이후 private로 전환합니다.
 
-Day 1: 2021.08.11  
-Day 2: 2021.08.12
+EH437님께서도 해당 자료를 private으로 전환 부탁합니다. 
